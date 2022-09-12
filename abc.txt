@@ -1,3 +1,2 @@
 This is the first line
-This is a wanted line
-
+This is an unwanted line
